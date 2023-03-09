@@ -69,7 +69,7 @@
 <img hight="320" width="450" align="right" alt="GIF" src="https://user-images.githubusercontent.com/110946315/224106078-58e57160-a580-4419-8cd1-bc1751502401.gif">
 
 
-If you want to reach out to me about anything, please feel free to reach out!!!
+If you want to reach out to me about anything, you are more than welcomed!!!
 
 <a href="mailto:roysapeguero@outlook.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
