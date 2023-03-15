@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 <img hight="200" width="600" alt="GIF" align="center" src="https://user-images.githubusercontent.com/110946315/224102693-282d6e92-1ccb-4768-8577-516131ffc2fc.gif">
 </div>
 
-</br>
+</br> -->
 
 # About ME 💬 :
 
@@ -60,7 +60,7 @@
 
 
 
-# Contact Me :
+# Contact Me 📮:
 
 <p>
  </br>
