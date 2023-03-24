@@ -13,6 +13,7 @@
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
+- ✨ TypeScript
 - ✨ How to get a job
 
 ### - Hobbies : 
