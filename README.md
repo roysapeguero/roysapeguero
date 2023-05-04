@@ -93,12 +93,17 @@ If you want to reach out to me about anything, you are more than welcomed!!!
 </br>
 
 
+<details>
+<summary>✨ GitHub Stats</summary>
+<p align="center" > 
 
-<p align="center" >  
   <a href="https://github.com/roysapeguero/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=roysapeguero&&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=roysapeguero&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
   </a>
 
-  </p>
+</p>
+    
+</details>
+
 
 *************
