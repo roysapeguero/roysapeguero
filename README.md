@@ -6,7 +6,7 @@
 
 # About ME 💬 :
 
-### - I'm Full Stack Software Engineer from New Jersey!
+### - I'm Full Stack Software Engineer in the San Francisco Bay Area!
 
 <img hight="15!
 0" width="250" alt="GIF" align="right" src="https://user-images.githubusercontent.com/110946315/224104424-c7261b56-76e9-4b0e-8cf7-cc7ae7411c36.gif">
