@@ -12,14 +12,18 @@
 0" width="250" alt="GIF" align="right" src="https://user-images.githubusercontent.com/110946315/224104424-c7261b56-76e9-4b0e-8cf7-cc7ae7411c36.gif">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ TypeScript
-- ✨ How to get a job
+✨ Data Structures & Algorithms
+</br>
+✨ TypeScript
+</br>
+✨ How to get a job
 
 ### - Hobbies : 
-- ✨ Watching Anime
-- ✨ Foreign Language Learning
-- ✨ Travel
+✨ Watching Anime
+</br>
+✨ Foreign Language Learning
+</br>
+✨ Travel
 
 </br>
 </br>
