@@ -6,15 +6,13 @@
 
 # About ME 💬 :
 
-### - I'm Full Stack Software Engineer in the San Francisco Bay Area!
+### - I'm Full Stack Software Engineer in the Greater Phoenix Area!
 
 <img hight="15!
 0" width="250" alt="GIF" align="right" src="https://user-images.githubusercontent.com/110946315/224104424-c7261b56-76e9-4b0e-8cf7-cc7ae7411c36.gif">
 
 ### - Learning :
 ✨ Data Structures & Algorithms
-</br>
-✨ TypeScript
 </br>
 ✨ How to get a job
 
@@ -74,7 +72,7 @@
 <img hight="320" width="450" align="right" alt="GIF" src="https://user-images.githubusercontent.com/110946315/224106078-58e57160-a580-4419-8cd1-bc1751502401.gif">
 
 
-If you want to reach out to me about anything, you are more than welcomed!!!
+Where you can reach me!
 
 <a href="mailto:roysapeguero@outlook.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -84,26 +82,14 @@ If you want to reach out to me about anything, you are more than welcomed!!!
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
+</br>
 </a>
- </p>
- 
+</p>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-<details>
-<summary>✨ GitHub Stats</summary>
-<p align="center" > 
-
-  <a href="https://github.com/roysapeguero/github-readme-stats"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=roysapeguero&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
-  </a>
+</a>
 
 </p>
     
